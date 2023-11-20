@@ -1,5 +1,7 @@
 # UParseTree
 
+⚠️ Warning: This repository is not actively developed due to time constraints.
+
 ## Overview
 
 UParseTree is a Rust library designed to facilitate code generation by representing language code in a standardized format using a universal parser tree. This repository contains the main deserializer and serializer implementations for the parser tree.
