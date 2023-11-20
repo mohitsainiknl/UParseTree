@@ -1,1 +1,12 @@
-/target
+# Rust
+/target/
+Cargo.lock
+**/*.rs.bk
+
+# Generated files
+Cargo.toml.orig
+Cargo.lock.orig
+
+# IDE files
+.idea/
+# .vscode/
