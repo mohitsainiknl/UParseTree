@@ -1,5 +1,5 @@
 [package]
-name = "test-parsex"
+name = "uparsetree"
 version = "0.1.0"
 edition = "2021"
 
