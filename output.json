@@ -1,0 +1,24 @@
+{
+    "id": 1,
+    "name": "root",
+    "line": "21",
+    "key": "column",
+    "node-two": {
+        "id": 1,
+        "name": "node2",
+        "line": "21",
+        "key": "anything",
+        "node-three": {
+            "id": 1,
+            "name": "node3",
+            "line": "21",
+            "key": "number",
+            "start": [12,12],
+            "end": [12,12]
+        },
+        "start": [12,12],
+        "end": [12,12]
+    },
+    "start": [12,12],
+    "end": [12,12]
+}
